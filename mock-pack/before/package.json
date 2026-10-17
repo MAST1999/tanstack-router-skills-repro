@@ -1,0 +1,5 @@
+{
+  "name": "stub-react-router",
+  "version": "0.0.0",
+  "files": ["dist","src"]
+}
